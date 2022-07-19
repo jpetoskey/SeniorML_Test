@@ -1,2 +1,2 @@
 # SeniorML_Test
-Identify if human is in a room using high frequency radar.
+Identify if a human is in a room using high frequency radar.
